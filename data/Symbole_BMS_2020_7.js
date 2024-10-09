@@ -1,0 +1,1 @@
+var json_Symbole_BMS_2020_7 = {"type":"FeatureCollection","name":"Symbole_BMS_2020_7","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"xy_coordinate_resolution":1e-08,"features":[{"type":"Feature","properties":{"ID":"20201208_141258_bMS3D_Rouen_bms_part1"},"geometry":{"type":"Point","coordinates":[1.09891109,49.44281091]}}]}
